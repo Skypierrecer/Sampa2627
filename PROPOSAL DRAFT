@@ -8,7 +8,11 @@ Project Objectives
   This project will interview willing participants to see if they are qualified to become a security guard of PSHS-EVCL.
 
 Planned Features
-  wry pa
+  1.Start the program
+  2.Ask for the user’s guard interview information.
+  3.Search for suitable status of the user.
+  4.Filter accesibility based on the user’s preferences.
+  5.Show background information related to the interview's inputs.
 
 Planned Inputs and Outputs
   Inputs:
@@ -18,4 +22,4 @@ Planned Inputs and Outputs
     "Congratulations, you are qualified to become a security guard at PSHS-EVCL!"
 
 Logic Plan
-  wry pa
+  The ideas started from pseudocode
