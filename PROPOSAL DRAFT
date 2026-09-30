@@ -5,14 +5,14 @@ Problem Statement
   Taking inventory of the ingredients in bakeshops with pen and paper is exhausting, sluggish, and susceptible to errors. With this program, the process becomes quick, easy, and accurate, saving time and energy.
 
 Project Objectives
-  This project 
+  The objective is to help students/workers to track and correctly remind them of bakery ingredients using online.
 
 Planned Features
   1.Start the program
-  2.Ask for the user’s guard interview information.
-  3.Search for suitable status of the user.
-  4.Filter accesibility based on the user’s preferences.
-  5.Show background information related to the interview's inputs.
+  2.Ask for required ingredients.
+  3.Track the ammounts of ingredients left.
+  4.Output the ammounts and remind the user what was left.
+  
 
 Planned Inputs and Outputs
   Inputs:
