@@ -5,7 +5,7 @@ Problem Statement
   Taking inventory of the ingredients in bakeshops with pen and paper is exhausting, sluggish, and susceptible to errors. With this program, the process becomes quick, easy, and accurate, saving time and energy.
 
 Project Objectives
-  This project will interview willing participants to see if they are qualified to become a security guard of PSHS-EVCL.
+  This project 
 
 Planned Features
   1.Start the program
@@ -24,4 +24,4 @@ Planned Inputs and Outputs
     "WARNING! You have no eggs left."
 
 Logic Plan
-  The ideas started from pseudocode
+  The ideas started from pseudocode with the use of flowcharts.
