@@ -3,15 +3,20 @@ my repository for my Sampaguita class in SY2026-2027
 
 Project proposal
 
-Project Title: Guard Interview Exam
-Description: This program interviews willing applicants once. If they pass, they are qualified to be a guard. This aims to improve the security of PSHS-EVCL, especially since shooting incidents have been on the rise.
-Features: It will ask many questions and will hire guards based on their answers.
+Project Title: Bakery Shop Ingredients Inventory
+
+Description: This program helps workers keep track of ingredients for a bakery. At the start of the day, the ingredients are inputted, then are decreased every time they are used. It will display a message if a certain ingredient has ran out or is extremely low in stock.
+
 How to run the program:
 1. Have Python installed
 2. Download the program
 3. Open it
 4. Run it
-5. Answer the questions
-Inputs Needed: age, name, phone number, purpose, address, work experience, financial status
-Sample Output: You are qualified to be a guard of PSHS-EVCL!
+5. Input all the required ingredients
+6. Input every time the ingredients are used up throughout the day
+
+Inputs Needed: yeast, sugar, water, butter, eggs, flour, milk, chocolate filling, vanilla filling, strawberry filling, salt
+
+Sample Output: WARNING! There is only 50 grams of sugar left.
+
 Authors: Jeremy B. Espadero, Pierre Anton G. Suico, Simone Getalado
