@@ -2,10 +2,17 @@ Project Title
   Bakery Shop Ingredients Inventory
 
 Problem Statement
-  Taking inventory of the ingredients in bakeshops with pen and paper is exhausting, sluggish, and susceptible to errors. With this program, the process becomes quick, easy, and accurate, saving time and energy.
+  Taking inventory of the ingredients in bakeshops with pen and paper is exhausting, sluggish, and susceptible to errors simply because of human nature. Maybe the person taking inventory is tired from work, or they rush 
+  the work too much that it becomes faulty. With this program, the process becomes quick, easy, and accurate, saving time and energy. This program allows any employee to record every change in the stock of ingredients. 
+  As of now, the 18 ingredients are: yeast, white sugar, brown sugar, water, butter, eggs, flour, milk, chocolate filling, vanilla filling, strawberry filling, salt, raisins, cinnamon, cream, walnuts, peanuts, cheese 
+  and condensed milk. This program could be updated mid-shift every time an ingredient is used and measured, or at the end of the day.
 
 Project Objectives
-  The objective is to help students/workers to track and correctly remind them of bakery ingredients using online.
+  >> This project aims to help employees of a bakery to keep track of their ingredients. It shows them if something needs restocking, helping with resource management.
+  >> Counting and measuring every ingredient in a bakery at the end of the day is tedious and lengthy. If it was quickly updated during work hours, it would be much easier.
+  >> The ingredients may be replaced with other easily available things for testing.
+  >> Computer programs make zero mistakes as long as the data is properly given. The program heavily reduces effort needed to calculate the stock and increases accuracy.
+  >> This project must be completed within the school year.
 
 Planned Features
   1.Start the program
@@ -16,7 +23,7 @@ Planned Features
 
 Planned Inputs and Outputs
   Inputs:
-    yeast, sugar, water, butter, eggs, flour, milk, chocolate filling, vanilla filling, strawberry filling, salt
+    yeast, white sugar, brown sugar, water, butter, eggs, flour, milk, chocolate filling, vanilla filling, strawberry filling, salt, raisins, cinnamon, cream, walnuts, peanuts, cheese, condensed milk, repeat
 
   Output:
     "All clear!"
@@ -24,4 +31,11 @@ Planned Inputs and Outputs
     "WARNING! You have no eggs left."
 
 Logic Plan
-  The ideas started from pseudocode with the use of flowcharts.
+  1. START
+  2. Set the current measurements of the ingredients
+  3. Update the stocks of each ingredient at the end of each day, or alternatively as the ingredients are being used
+  4. If the updated stock is low, warn the user
+  5. If the updated stock is empty, tell the user
+  6. Once all stocks have been updated, ask the user if they would like to redo it (Y/N)
+  7. If Y, loop back to step 2
+  8. If N, end the program
