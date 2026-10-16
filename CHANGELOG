@@ -8,5 +8,5 @@ changed the project into a bakeshop inventory counter
 adjusted README and PROPOSAL DRAFT files accordingly
 
 V0.0.3 (10/16/2026)
-fixed changelog
-fixed project proposal
+fixed changelog to have the correct version numbers and to include the dates
+made the problem statement of the proposal draft more in-depth, added more objectives that hopefully followed the SMART framework, and made a proper logic plan in pseudocode
