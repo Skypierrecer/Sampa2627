@@ -8,8 +8,11 @@ Problem Statement
   and condensed milk. This program could be updated mid-shift every time an ingredient is used and measured, or at the end of the day.
 
 Project Objectives
+  GENERAL OBJECTIVE
   >> This project aims to develop an easy Python app for an easier inventory system. As manual labor can be lengthy, this project should perform the calculations for the workers to help save time and effort while also
      still keeping the results accurate.
+
+  SPECIFIC OBJECTIVES
   >> This project should be finished within 6 months. By the time 3 months have passed, the project should already have a finalized logic plan and a finalized ingredient list.
   >> This project should be as accurate as possible to real-life inventory systems. Without accuracy, this app will not be of any use to these workers.
 
